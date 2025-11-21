@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00AEEF&width=650&lines=Hi%F0%9F%91%8B%2C+I'm+Avalla+Sunil;Python+Developer+%7C+Data+Analyst;Passionate+about+Data+%26+Automation;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00AEEF&width=650&lines=Hi%F0%9F%91%8B%2C+I'm+nikesh reddy /male;Python+Developer+%7C+Data+Analyst;Passionate+about+Data+%26+Automation;">
 </p>
 
 ---
@@ -15,7 +15,7 @@
 📊 Skilled in *data cleaning, visualization, analytics, and automation*.  
 📈 Currently exploring advanced topics in *Power BI, SQL, and Machine Learning basics*.  
 🤝 Open to collaborations in *data analytics, dashboards, and Python automation*.  
-📫 Email: *avallasunil5@gmail.com*
+📫 Email: *nikeshreddymale@gmail.com*
 
 ---
 
