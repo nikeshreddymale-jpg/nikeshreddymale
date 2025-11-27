@@ -1,111 +1,93 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00AEEF&width=650&lines=Hi%F0%9F%91%8B%2C+I'm+nikesh reddy /male;Python+Developer+%7C+Data+Analyst;Passionate+about+Data+%26+Automation;">
-</p>
+# 👋 Hi, I'm Nikesh Reddy
+
+Aspiring **Data Analyst** with a B.Tech in **Electrical and Electronics Engineering**. I enjoy exploring datasets, finding insights, and building dashboards that help solve real problems. Actively seeking an **Entry-Level Data Analyst** role to grow and contribute.
 
 ---
 
-# 🧠 Python & Data Analytics Portfolio
-<h3 align="center">🔍 Data-Driven Thinker | Python Enthusiast | Analytics Professional</h3>
+## 🚀 Skills
+
+### 🔹 Programming & Analytics
+- Python (Pandas, NumPy)  
+- SQL  
+- Excel  
+
+### 🔹 Visualization
+- Power BI  
+- Tableau (Basic)  
+- Matplotlib  
+
+### 🔹 Databases
+- MySQL  
+
+### 🔹 Other Tools
+- Google Sheets  
+- MS Office  
 
 ---
 
-## 👨‍💻 About Me  
-🚀 I’m a passionate *Python Developer & Data Analyst* focused on turning data into clear, actionable insights.  
-📊 Skilled in *data cleaning, visualization, analytics, and automation*.  
-📈 Currently exploring advanced topics in *Power BI, SQL, and Machine Learning basics*.  
-🤝 Open to collaborations in *data analytics, dashboards, and Python automation*.  
-📫 Email: *nikeshreddymale@gmail.com*
+## 🧠 Soft Skills
+- Communication  
+- Teamwork  
+- Time Management  
+- Adaptability  
 
 ---
 
-## 🧰 Languages & Tools  
+## 📊 Projects
 
-### 🐍 *Programming & Scripting*
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-</p>
+### **1️⃣ EV Charging Station Data Analysis**
+**Tools:** Python, Excel, Power BI  
+- Analyzed EV charging data to identify peak hours, demand, and usage trends.  
+- Built interactive Power BI dashboards to visualize performance metrics.  
+- Conducted energy consumption comparison and suggested improvements.
 
-### 📊 *Data Analysis & Processing*
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="55" />
-</p>
-
-### 📈 *Data Visualization*
-<p>
-  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn" height="55" />
-  <img src="https://skillicons.dev/icons?i=plotly" height="55" />
-</p>
-
-### 🧠 *Machine Learning (Basics)*
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="55" />
-</p>
-
-### 🗄 *Databases*
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="55" />
-</p>
-
-### 🛠 *Development Tools*
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,jupyter" height="55" />
-</p>
-
-### 🧭 *Version Control*
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" height="55" />
-</p>
-
-### 📊 *Dashboarding*
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi" height="55" />
-</p>
+### **2️⃣ Student Performance Analysis**
+**Tools:** Python (Pandas, Matplotlib)  
+- Cleaned and processed academic datasets.  
+- Visualized trends and performance gaps.  
+- Identified correlations between attendance and grades.
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+## 🏢 Internship Experience
+
+### **Data Analyst Intern — Vangrove Tech Pvt. Ltd.**
+- Analyzed large datasets to extract trends and insights.  
+- Created dashboards using **Power BI** and **Tableau**.  
+- Assisted in predictive analytics and forecasting.  
+- Worked with SQL databases and visualization tools.
 
 ---
 
-## 🚀 Featured Projects  
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [📈 Sales Data Analysis](https://github.com/YOUR-GITHUB-USERNAME/sales-data-analysis) | Performed sales trend analysis and visual insights | Python, Pandas, Matplotlib |
-| [🧹 Data Cleaning Toolkit](https://github.com/YOUR-GITHUB-USERNAME/data-cleaning-toolkit) | Automated data preprocessing pipeline | Python, Pandas |
-| [📊 Customer Segmentation](https://github.com/YOUR-GITHUB-USERNAME/customer-segmentation) | K-Means clustering for customer segmentation | Scikit-learn, Seaborn |
+## 🎓 Education
+- **B.Tech — Electrical & Electronics Engineering**, TKR Engineering College  
+- **Intermediate**, Pragathi Junior College  
+- **Secondary Education**, NEWS School  
 
 ---
 
-## 🏆 Certifications  
-- 📜 *Google Data Analytics Certificate*  
-- 📜 *IBM Python for Data Science*  
-- 📜 *SQL for Data Analysis (Udemy)*  
+## 📜 Certifications
+- Python — HackerRank  
+- SQL — HackerRank  
+- R Programming — HackerRank  
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:avallasunil5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🌐 Languages
+- English  
+- Telugu  
+- Hindi  
 
 ---
 
-## 💬 Quote  
-> “Data is the new oil — but Python is the refinery.” 🐍  
+## 🎯 Hobbies
+- Cricket  
+- Music  
+- Photography  
 
 ---
 
-<p align="center"><b>⭐ If you like my work, consider following & starring my repositories!</b></p>
+## 📬 Contact
+**Email:** nikeshreddymale@gmail.com  
+**Phone:** +91 62817 65500  
+**LinkedIn:** https://linkedin.com/in/nikeshreddy-male-97b38a38a
